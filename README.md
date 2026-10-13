@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Mason 👋
 
-<!--
-**Ragnarok2187/Ragnarok2187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring IT support specialist based in Bloomington, IL.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Learning Java through small practice projects
+- Studying for the CompTIA A+ certification
+- Building hands-on troubleshooting and hardware skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Java (beginner)
+- **Hardware:** PC building, RAM upgrades, laptop and phone repair
+- **Customer support:** Helping customers with tech and printer setups in retail
+
+## Projects
+- [java-practice](https://github.com/Ragnarok2187/java-practice): beginner Java programs, starting with a receipt/tip calculator
